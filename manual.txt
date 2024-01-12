@@ -1,0 +1,3 @@
+1. Stiahnite si font v assets/font (ubuntu ked pouzivas?)
+2. Spusti server
+3. Spusti main
