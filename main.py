@@ -7,7 +7,7 @@ from easygame_m import *
 import time
 HEADER_LENGTH = 10
 timer = math.floor(time.time())
-IP = "10.4.5.230" #input("input ip of the server, whitch you connecting: ")#
+IP = input("input ip of the server, whitch you connecting: ")
 PORT = 1234
 my_username = input("Username: ")
 width = 800
